@@ -45,8 +45,5 @@ var mercedes = new Mercedes('white');
 //console.log(mercedes)
 
 var automobil = new Mercedes();
-automobil = mercedes;
-//console.log(automobil.getNumOfDoors());
-automobil = volvo;
-//console.log(automobil.speedLimit);
-//console.log(automobil);
+
+
